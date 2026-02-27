@@ -1,0 +1,1 @@
+Jennifer Goldstein is an award-winning Casting Director and Producer, and an Executive Media Consultant who helps leaders communicate with clarity and confidence when the stakes are high. Her work spans network, streaming, and branded content, with deep experience building talent-driven stories and preparing executives for press, interviews, and on-camera moments.

@@ -1,6 +1,6 @@
 # Assets
 
-Public-facing visuals for JG Media Consulting Group (logo, headshot, one-sheet PDFs, etc.).
+Public-facing visuals for JG Media Consulting Group (logo, headshot, one-sheet PDFs, etc.). <img ... width="600" />
 
 ## Logo
 ![JGMC logo](JGMC%20logo1a.png)

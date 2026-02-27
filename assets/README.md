@@ -1,9 +1,9 @@
 # Assets
 
-Public-facing visuals for JG Media Consulting Group (logo, headshot, one-sheet PDFs, etc.). <img ... width="600" />
+Public-facing visuals for JG Media Consulting Group (logo, headshot, one-sheet PDFs, etc.). 
 
 ## Logo
-![JGMC logo](JGMC%20logo1a.png)
+<img src="JGMC%20logo1a.png" width="600" alt="JG Media Consulting Group logo" />
 
 ## Headshot
-![JG Media Consulting Group headshot](JG%20Media%20Consulting%20Group.jpg)
+<img src="JG%20Media%20Consulting%20Group.jpg" width="600" alt="Jennifer Goldstein headshot" />
